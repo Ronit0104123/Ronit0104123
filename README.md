@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBxdXhqNzduamhzMG5lOGdtZ29tZTd6ZGgwc2J1anlpMnhlMTZuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" target="_blank">
+  <a href="https://www.linkedin.com/in/ronit-jain0104/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20with%20me%20&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:ronitj0104@gmail.com" target="_blank">
@@ -29,11 +29,11 @@
 
 <br clear="both">
 
-<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBxdXhqNzduamhzMG5lOGdtZ29tZTd6ZGgwc2J1anlpMnhlMTZuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBxdXhqNzduamhzMG5lOGdtZ29tZTd6ZGgwc2J1anlpMnhlMTZuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
-<p align="left">🎓  Education: Third-year student at BITS Pilani<br>📌  Interests: Web Development | AI | Startups</p>
+<p align="left">🎓  Education: Third-year student at BITS Pilani<br>📌  Interests: Web Development | AI | Startups<br>🧠 Always curious, always learning</p>
 
 ###
 
